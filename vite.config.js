@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/proto/',   // ✅ IMPORTANT — must match repo name
+  base: '/proto/',
 })

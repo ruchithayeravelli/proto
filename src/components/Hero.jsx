@@ -53,7 +53,7 @@ export function Hero() {
             >
               <Github size={22} />
             </a>
-
+             
             {/* LinkedIn */}
             <a 
               href="https://www.linkedin.com/in/yeravelli-ruchitha-750b3a281" 

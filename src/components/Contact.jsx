@@ -56,7 +56,7 @@ export function Contact() {
           <div>
             <MapPin />
             <h3>Location</h3>
-            <p>Hyderabad,Telanagana</p>
+            <p>Hyderabad,Telangana</p>
           </div>
         </div>
 
